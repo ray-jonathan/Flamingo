@@ -1,5 +1,9 @@
 # Flamingo
 #### https://goflamingo.today
+________________
+#### [Link to React Frontend Code](https://github.com/emauldin84/DC-capstone-frontend/)
+ ⬆︎ For those us who enjoy _not_ reading minified code.
+
 ## By Jonathan Ray & Eric Mauldin
 
 ## Full-Stack Capstone Project
